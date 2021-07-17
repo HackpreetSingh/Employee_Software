@@ -143,9 +143,6 @@ public class Employee_Management_System {
 	public static void main(String[] args) {
 		Employee_Management_System m = new Employee_Management_System();
 		int ch = 0;
-		String cho="";
-//		char ip = 'y';
-
 		while (ch != 5) {
 //			while(true) {
 			System.out.println("Enter 1 for create\nEnter 2 for display\nEnter 3 for raise\nEnter 4 for delete\nEnter 5 to exit");
